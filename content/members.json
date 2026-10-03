@@ -58,6 +58,17 @@
     }
   },
   {
+    "id": "K4V1N",
+    "name": "Sutirth Dubey",
+    "bio": "The world isn't perfect.",
+    "description": "I am an undergraduate at IIT (BHU) Varanasi with a strong interest in cybersecurity and software development. I enjoy exploring system internals, secure coding practices, competitive programming, and real-world security challenges.",
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/sutirth-dubey-71778a323/",
+      "github": "https://github.com/Sutirthdubey20005",
+      "codeforces": "https://codeforces.com/profile/KavinProphylaxis"
+    }
+  },
+  {
     "id": "ironhex",
     "name": "N. Jaynath Kumar",
     "bio": "",
